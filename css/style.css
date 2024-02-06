@@ -45,3 +45,11 @@ article > img{
     filter: grayscale(100%);
     margin-top: 1em;
 }
+
+ol li:nth-child(even){
+    color: #DC33DC;
+}
+
+main > img{
+    width: 100%;
+}
