@@ -33,3 +33,8 @@ nav link{
     color: #DEC9E9;
     text-decoration: none;
 }
+
+#intro + section{
+    background-color: #000;
+    color: #DEC9E9;
+}
